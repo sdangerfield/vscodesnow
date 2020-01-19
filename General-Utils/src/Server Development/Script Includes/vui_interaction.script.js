@@ -38,6 +38,7 @@ vui_interaction.prototype = {
         EMAIL: 'email',
         ASSISTANT: 'assistant'
     },
+    
 };
 
 
